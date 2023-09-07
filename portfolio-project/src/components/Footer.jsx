@@ -8,9 +8,14 @@ export default function Footer () {
     window.location.replace("http://www.github.com/ascolardi")
   }
 
+  function sendtoLinked () {
+    window.location.replace("http://www.linkedin.com/in/annelise-scolardi-1aa8531b5")
+  }
+
   return (
     <footer>
       <h4 className='footText'><a onClick={sendtoGithub}>Github</a></h4>
+      <h4 className='footText'><a onClick={sendtoLinked}>LinkedIn</a></h4>
       {/* <section className="logos">
         <img src={GithubLogo} alt="Github Logo"/>
         <img src={LinkedinLogo} alt="linkedin Logo" href="www.linkedin.com/in/annelise-scolardi-1aa8531b5"/>

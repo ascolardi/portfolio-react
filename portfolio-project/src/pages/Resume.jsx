@@ -1,9 +1,10 @@
-export default function Resume () {
+import ResumeFile from "../components/ResumeFile"
 
+export default function Resume () {
 
   return (
     <>
-      <h1>Resume</h1>
+      <ResumeFile/>
     </>
   )
 }
