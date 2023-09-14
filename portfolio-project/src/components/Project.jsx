@@ -40,6 +40,14 @@ export default function Project () {
         <figure><img src='https://github.com/ascolardi/coding-quiz/raw/main/assets/Screen%20Shot%202023-07-11%20at%204.28.08%20PM.png' alt="Shoes" /></figure>
       </div>
 
+      <div className="card w-96 bg-base-100 shadow-xl">
+        <div className="card-body">
+          <h2 className="card-title">Hull & Deck</h2>
+          <a href="https://github.com/bpoole53/group-project-3-fake-store">Github</a>
+          <p>Front-End React Development</p>
+        </div>
+        <figure><img src='https://github.com/bpoole53/group-project-3-fake-store/raw/main/client/public/Screenshot%202023-09-13%20202248.png' alt="Shoes" /></figure>
+      </div>
 
 
 
