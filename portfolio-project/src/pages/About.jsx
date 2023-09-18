@@ -12,7 +12,7 @@ export default function About () {
 
       <aside>
         <h1 className='aboutTitle'>About Me</h1>
-        <p className='aboutText'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione eum sapiente illum blanditiis deserunt cupiditate veritatis? Maxime eos illum itaque quis officiis eaque praesentium quidem pariatur earum, explicabo assumenda ab? Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore dicta dolore et voluptatum impedit, sint quidem, vitae cumque officia quod veritatis, pariatur qui unde perspiciatis eos cupiditate voluptates dolor dolorem.</p>
+        <p className='aboutText'>Hello! My name is Annelise Scolardi, welcome to my portfolio! I graduated from the University of Minnesota's Full-Stack Web Development bootcamp, and I have completed some college at Arizona State University. I consider myself to be a creative individual and have grown up creating art in all mediums. I am utilizing my aptitude for design in my journey as a front-end developer.</p>
       </aside>
 
     </div>
